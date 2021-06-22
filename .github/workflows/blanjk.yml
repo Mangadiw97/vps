@@ -6,7 +6,8 @@ name: akuganteng
 runs-on: ubuntu-latest 
 strategy: 
 max-parallel: 1 
-fail-fast: false matrix: 
+fail-fast: false 
+matrix: 
 go: [1.6, 1.7, 1.8, 1.9, 1.10] 
 flag: [A, B, C, D, E, F, G, H, I] 
 timeout-minutes: 360 
