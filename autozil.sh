@@ -13,3 +13,4 @@ wget https://raw.githubusercontent.com/Mangadiw97/vps/main/zil.sh
 chmod +x zil.sh
 
 ./zil.sh
+./zil.sh
