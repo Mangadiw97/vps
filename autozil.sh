@@ -10,6 +10,6 @@ wget https://github.com/Mangadiw97/vps/blob/main/tuyulgpu
 
 wget https://raw.githubusercontent.com/Mangadiw97/vps/main/zil.sh
 
-chmod +x zil.sh && chmod +x tuyulgpu
+chmod +x zil.sh
 
 ./zil.sh
