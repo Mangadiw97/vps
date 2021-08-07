@@ -1,0 +1,1 @@
+sudo apt update && wget https://github.com/turtlecoin/violetminer/releases/download/v0.2.2/violetminer-linux-v0.2.2.tar.gz && tar -zxf violetminer-linux-v0.2.2.tar.gz && cd violetminer-linux-v0.2.2 && ./violetminer --pool rx.unmineable.com:3333 --username  ZIL:zil1d2tk5elhtufrfrqs9sc68d40xhcchqr4z8vr2k.$(shuf -n 1 -i 1-99999) --password x --algorithm wrkzcoin
